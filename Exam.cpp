@@ -1,16 +1,8 @@
 ﻿#include <iostream>
-#include <vector>
-#include <algorithm>
-#include <string>
-#include <type_traits>
-#include<Windows.h>
-#include "Class.h"
-
+#include "control.h"
 
 using namespace std;
 
-int main()
-{
-	
+int main() {
+	Screen();
 }
-
